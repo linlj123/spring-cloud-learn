@@ -3,3 +3,5 @@ info:
   from: git1
   
 test: bbb
+encrypt:
+  key: didispace
